@@ -1,2 +1,3 @@
-# boston-house-pricing
-Use Traditional Model To Predict House Pricing In Boston
+# Project: Predicting Boston Housing prices Using Linear Regression
+
+Please visit Jupyter Notebook for detail: 
